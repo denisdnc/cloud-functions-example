@@ -1,0 +1,24 @@
+{
+  "name": "cloud-functions-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisdnc/cloud-functions-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denisdnc/cloud-functions-example/issues"
+  },
+  "homepage": "https://github.com/denisdnc/cloud-functions-example#readme",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.6.0",
+    "@google-cloud/logging-winston": "^4.0.0",
+    "winston": "^3.3.3"
+  }
+}
