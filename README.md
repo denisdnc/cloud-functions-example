@@ -1,6 +1,6 @@
 # cloud-functions-example
 
-##running 
+## running 
 ```sh
 npx @google-cloud/functions-framework --target=execute
 ```
